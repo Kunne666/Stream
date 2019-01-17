@@ -1,2 +1,4 @@
 Hello World!
 皆さん、こんにちは！
+Hello World!
+皆さん、こんにちは！
